@@ -2,7 +2,7 @@
 A passionate software engineer from Bangladesh  
 
 - 💬 Ask me about **C#, .NET Core, SQL, Angular**  
-- 📫 Reach me at **myemail@example.com**  
+- 📫 Reach me at **suvasish135@gmail.com**  
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuvasishChowdhury&show_icons=true&theme=tokyonight)
