@@ -14,9 +14,8 @@
 
 ## 🔥 GitHub Stats  
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuvasishChowdhury&show_icons=true&theme=radical&count_private=true" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvasishChowdhury&layout=compact&theme=tokyonight" width="300"/>
-  <img src="https://streak-stats.demolab.com?user=SuvasishChowdhury&theme=radical&hide_border=true" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuvasishChowdhury&show_icons=true&theme=radical&count_private=true" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvasishChowdhury&layout=compact&theme=tokyonight" width="350"/>
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuvasishChowdhury&show_icons=true&theme=radical&count_private=true)  
