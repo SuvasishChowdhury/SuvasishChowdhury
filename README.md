@@ -9,21 +9,6 @@
 - 🌱 Learning **Cloud, Docker & Microservices**  
 - 💬 Ask me about **C#, .NET Core, Angular, SQL, DevOps**  
 - ⚡ Fun fact: I love debugging more than coding 😆  
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-
-<div style="flex: 1; min-width: 250px; padding-right: 20px;">
-- 🔭 I’m currently working as a **Senior Software Engineer**  
-- 🌱 Learning **Cloud, Docker & Microservices**  
-- 💬 Ask me about **C#, .NET Core, Angular, SQL, DevOps**  
-- ⚡ Fun fact: I love debugging more than coding 😆  '/ 
-</div>
-
-<div style="flex: 1; min-width: 250px; text-align: center;">
-  <h2>Fun Zone</h2>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
-</div>
-
 
 ---
 
