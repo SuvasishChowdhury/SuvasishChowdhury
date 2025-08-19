@@ -23,7 +23,7 @@
 </td>
   </tr>
   <tr>
-    <td>
+    <td valign="top" width="100%">
       <b>Connect with Me</b><br>
 <a href="https://www.linkedin.com/in/chowdhurysuvasish" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
