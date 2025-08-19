@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F700&width=550&lines=Senior+Software+Engineer;8%2B+Years+Experience;C%23+.NET+%7C+Angular+%7C+SQL+%7C+DevOps;Passionate+about+Clean+Code+%26+Architecture" alt="Typing SVG" />
 </a>
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 <a href="https://www.linkedin.com/in/chowdhurysuvasish" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
