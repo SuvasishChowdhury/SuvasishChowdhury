@@ -9,7 +9,11 @@
 </a>
 
 <br/>
-
+<b>👨‍💻 About Me </b><br>
+- 🔭 I’m currently working as a <b>Senior Software Engineer</b> <br>
+- 🌱 Learning <b>Cloud, Docker & Microservices</b><br> 
+- 💬 Ask me about <b>C#, .NET Core, Angular, SQL, DevOps</b><br>
+- ⚡ Fun fact: I love debugging more than coding 😆  <br>
 <b>Connect with Me</b><br>
 <a href="https://www.linkedin.com/in/chowdhurysuvasish" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
@@ -27,11 +31,6 @@
   </tr>
 </table>
 
-## 👨‍💻 About Me  
-- 🔭 I’m currently working as a **Senior Software Engineer**  
-- 🌱 Learning **Cloud, Docker & Microservices**  
-- 💬 Ask me about **C#, .NET Core, Angular, SQL, DevOps**  
-- ⚡ Fun fact: I love debugging more than coding 😆  
 
 ---
 
