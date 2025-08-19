@@ -22,6 +22,20 @@
 
 </td>
   </tr>
+  <tr>
+    <td>
+      <b>Connect with Me</b><br>
+<a href="https://www.linkedin.com/in/chowdhurysuvasish" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://www.facebook.com/chowdhurybono" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://gitlab.com/Suvasish" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab">
+</a>
+  </td>
+  </tr>
 </table>
 
 
