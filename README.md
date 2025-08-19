@@ -64,10 +64,3 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=SuvasishChowdhury&color=blue&style=flat-square)
 
----
-
-## 🎬 Fun Zone  
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>  
-
----
