@@ -7,6 +7,9 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chowdhurysuvasish)
+<a href="https://www.linkedin.com/in/chowdhurysuvasish" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+</a>
 
 ---
 
