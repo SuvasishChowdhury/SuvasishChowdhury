@@ -23,7 +23,9 @@
 </td>
  
 </table>
+
 ---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chowdhurysuvasish)
