@@ -21,26 +21,16 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 </td>
-  </tr>
-  <tr>
-    <td valign="top" width="100%">
-      <b>Connect with Me</b><br>
-<a href="https://www.linkedin.com/in/chowdhurysuvasish" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://www.facebook.com/chowdhurybono" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://gitlab.com/Suvasish" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab">
-</a>
-  </td>
-  </tr>
+ 
 </table>
+---
+### 📫 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chowdhurysuvasish)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/chowdhurybono)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/Suvasish)
 
 ---
-
 ## 🔥 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuvasishChowdhury&show_icons=true&theme=radical&count_private=true)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=SuvasishChowdhury&theme=radical&hide_border=true)  
