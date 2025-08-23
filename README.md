@@ -1,28 +1,14 @@
-  <table>
-  <tr>
-    <td valign="top" width="60%">
-
 <h1>Hi there 👋, I'm Suvasish Chowdhury</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F700&width=550&lines=Senior+Software+Engineer;8%2B+Years+Experience;C%23+.NET+%7C+Angular+%7C+SQL+%7C+DevOps;Passionate+about+Clean+Code+%26+Architecture" alt="Typing SVG" />
 </a>
 
-<br/>
-<b>👨‍💻 About Me </b><br>
+##👨‍💻 About Me </b><br>
 - 🔭 I’m currently working as a <b>Senior Software Engineer</b> <br>
 - 🌱 Learning <b>Cloud, Docker & Microservices</b><br> 
 - 💬 Ask me about <b>C#, .NET Core, Angular, SQL, DevOps</b><br>
 - ⚡ Fun fact: I love debugging more than coding 😆  <br>
-
-
-</td>
-<td valign="top" width="40%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-</td>
- 
-</table>
 
 ---
 
