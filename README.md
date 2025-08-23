@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F700&width=550&lines=Senior+Software+Engineer;8%2B+Years+Experience;C%23+.NET+%7C+Angular+%7C+SQL+%7C+DevOps;Passionate+about+Clean+Code+%26+Architecture" alt="Typing SVG" />
 </a>
 
-##👨‍💻 About Me </b><br>
+## 👨‍💻 About Me </b><br>
 - 🔭 I’m currently working as a <b>Senior Software Engineer</b> <br>
 - 🌱 Learning <b>Cloud, Docker & Microservices</b><br> 
 - 💬 Ask me about <b>C#, .NET Core, Angular, SQL, DevOps</b><br>
