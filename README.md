@@ -19,10 +19,10 @@
 
 ---
 ## 🔥 GitHub Stats
-![Suvasish's GitHub stats](https://SuvasishChowdhury.vercel.app/api?username=SuvasishChowdhury&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuvasishChowdhury&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats-yourname.vercel.app/api?username=SuvasishChowdhury&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=SuvasishChowdhury&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuvasishChowdhury&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=SuvasishChowdhury&layout=compact&theme=tokyonight)  
+
 
 ---
 
