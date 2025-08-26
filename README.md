@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me </b><br>
 - 🌍 Currently based in Bangladesh 
-- 🌱 Exploring <b>Cloud, Docker & Microservices</b><br> 
+- 🌱 Diving deeper into <b>Cloud, Docker & Microservices</b><br> 
 - 💬 Ask me about <b>C#, .NET Core, Angular, SQL, DevOps</b><br>
 - ⚡ Fun fact: I love debugging more than coding 😆  <br>
 
