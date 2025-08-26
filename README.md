@@ -26,6 +26,8 @@
 ---
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy-ashy-phi.vercel.app/?username=SuvasishChowdhury&theme=radical&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=SuvasishChowdhury&theme=radical&no-frame=true&margin-w=15)
+
 
 
 ---
