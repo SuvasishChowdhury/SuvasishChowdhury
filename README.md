@@ -23,6 +23,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=SuvasishChowdhury&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats-two-inky-53.vercel.app/api/top-langs/?username=SuvasishChowdhury&layout=compact&theme=tokyonight)  
 
+---
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy-ashy-phi.vercel.app/?username=SuvasishChowdhury&theme=radical&no-frame=true&margin-w=15)
 
 
 ---
