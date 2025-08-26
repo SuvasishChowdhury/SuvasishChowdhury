@@ -5,8 +5,8 @@
 </a>
 
 ## 👨‍💻 About Me </b><br>
-- 🔭 I’m currently working as a <b>Senior Software Engineer</b> <br>
-- 🌱 Learning <b>Cloud, Docker & Microservices</b><br> 
+- 🌍 Currently based in Bangladesh 
+- 🌱 Exploring <b>Cloud, Docker & Microservices</b><br> 
 - 💬 Ask me about <b>C#, .NET Core, Angular, SQL, DevOps</b><br>
 - ⚡ Fun fact: I love debugging more than coding 😆  <br>
 
