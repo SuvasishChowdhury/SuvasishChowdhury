@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Suvasish Chowdhury</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F700&width=550&lines=Senior+Software+Engineer;8%2B+Years+Experience;C%23+.NET+%7C+Angular+%7C+SQL+%7C+DevOps;Passionate+about+Clean+Code+%26+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F700&width=550&lines=Senior+Software+Engineer;9%2B+Years+Experience;C%23+.NET+%7C+Angular+%7C+SQL+%7C+DevOps;Passionate+about+Clean+Code+%26+Architecture" alt="Typing SVG" />
 </a>
 
 ## 👨‍💻 About Me </b><br>
